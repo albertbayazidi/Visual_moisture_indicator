@@ -5,7 +5,7 @@ Remember to recalibrate your moisture sensor and to download the necessary libra
 
 
 ### Functionality
-when the sensor detects a certain amount of water the screen will show a smiley face,
+When the sensor detects a certain amount of water the screen will show a smiley face,
 however if the sensor does not detect enough water it will show a frowny face.
 
 ### Usage
